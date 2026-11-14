@@ -1,12 +1,11 @@
 {
   "0": "database.go",
-  "1": "github.com/gin-gonic/gin.Context",
-  "2": "validate.go",
+  "1": "steps",
+  "2": "handlers_users.go",
   "3": "model.go",
   "4": "package.json",
   "5": "mungkasdesk/backend",
-  "6": "handlers_auth.go",
-  "7": "handlers_users.go",
+  "6": "ci.yml",
   "8": "helpers.js",
   "9": "run.js"
 }

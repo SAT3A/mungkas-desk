@@ -10,6 +10,12 @@
 # Kredensial lokal (lihat backend/.env.example)
 backend/.env
 
+# Config opencode project — lokal saja, tidak di-push.
+# Alasan: file ini boleh memuat provider + apiKey milik mesin lokal
+# (repo public — jangan sampai key bocor ke GitHub). Config yang
+# di-push tetap bisa direkonstruksi dari structur project ini.
+opencode.jsonc
+
 # OS / editor
 Thumbs.db
 .DS_Store
